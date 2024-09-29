@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@ethsign/sp-sdk": "^0.7.5",
-    "ethers": "^6.13.2",
+    "ethers": "5",
     "viem": "^2.18.5"
   }
 }
